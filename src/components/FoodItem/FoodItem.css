@@ -9,7 +9,8 @@
 .food-item-image{
     width: 100%;
     border-radius: 15px 15px 0px 0px;
-    height:500px;
+    min-height:300px;
+    height: auto;
 }
 .food-item-info{
     padding: 20px;
